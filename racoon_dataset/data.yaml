@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/objectdetection_yolo/racoon_dataset/train/images/
+val:  /content/drive/MyDrive/objectdetection_yolo/racoon_dataset/valid/images/
+
+nc: 1
+names: ['raccoon']
